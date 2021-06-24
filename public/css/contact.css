@@ -19,6 +19,8 @@
   }
   .jumbotron h1 {
     font-weight: bold;
+    font-size: 62px;
+    margin-top: 75px;
   }
   .paneljumbo {
     margin-top: 45px;
@@ -92,9 +94,7 @@
   .review {
     padding: 3rem 3rem;
   }
-  .tulisan-about {
-    padding: 2rem 2rem;
-  }
+ 
   .gambar-ttg img {
     padding: 2rem 2rem;
   }
