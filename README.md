@@ -1,2 +1,2 @@
-# 77Design-1.0
-preview => https://77design-10.kriswahyu.repl.co
+# 77Design
+preview => https://77design.repl.co
